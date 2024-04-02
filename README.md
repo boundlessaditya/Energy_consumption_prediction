@@ -1,7 +1,7 @@
 Hello there,
 
 Hope you are having a good day
-This is a energy consumption prediction system.
+This is an energy consumption prediction system.
 Dataset used in this project belongs to https://www.kaggle.com/datasets/landauof/aep-hourly.
 
 AEP_hourly.csv was actually a huge dataset and indeed a great dataset to predict the most accurate predictions.
